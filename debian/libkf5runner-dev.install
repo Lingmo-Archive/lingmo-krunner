@@ -1,0 +1,7 @@
+usr/include/KF5/KRunner/
+usr/include/KF5/krunner_version.h
+usr/lib/*/cmake/KF5Runner/
+usr/lib/*/libKF5Runner.so
+usr/lib/*/qt5/mkspecs/modules/qt_KRunner.pri
+usr/share/kdevappwizard/templates/runner.tar.bz2
+usr/share/kdevappwizard/templates/runnerpython.tar.bz2
